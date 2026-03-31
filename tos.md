@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last Updated:** 29-03-2026  
+**Last Updated:** 31-03-2026  
 **Bot Name:** Levelix  
 **Operator / Owner:** Viren Sahti
 
