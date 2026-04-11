@@ -277,7 +277,7 @@ It is your responsibility to review this policy periodically.
 If you have questions, requests, or concerns about this Privacy Policy or your data, contact us at:
 
 - **Email:** sahtiviren@hotmail.com
-- **Discord:** therealviren_
+- **Discord:** therealviren
 
 ---
 
