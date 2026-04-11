@@ -430,7 +430,7 @@ If a dispute arises, we may choose a reasonable method for handling it, includin
 For questions, concerns, or requests related to these Terms or the Bot, contact:
 
 - **Email:** sahtiviren@hotmail.com
-- **Discord:** therealviren_
+- **Discord:** therealviren
 
 ---
 
