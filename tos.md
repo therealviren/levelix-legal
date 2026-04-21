@@ -41,7 +41,7 @@ Levelix is a Discord bot that provides features including, but not limited to:
 - premium redeem codes;
 - daily, weekly, and steal XP tools for premium users;
 - moderation tools including blocking, strikes, and action logging;
-- an admin panel and owner panel for server management;
+- an admin panel and owner panel for our global management;
 - a leaderboard system;
 - audit logging and server overview tools;
 - utility commands and informational commands;
