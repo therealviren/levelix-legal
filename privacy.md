@@ -403,7 +403,7 @@ If another party can access or process your data through their own systems or pe
 For questions, requests, or concerns about this Privacy Policy or your data, contact us at:
 
 **Email:** sahtiviren@hotmail.com  
-**Discord:** 1axyy
+**Discord:** vaxzv
 
 ---
 
