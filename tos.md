@@ -527,7 +527,7 @@ Nothing in these Terms is intended to remove mandatory consumer protections that
 For questions, concerns, or requests related to these Terms or the Bot:
 
 Email: sahtiviren@hotmail.com  
-Discord: 1axyy
+Discord: vaxzv
 
 ---
 
